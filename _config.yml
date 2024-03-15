@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: A Sweet Devouring: Eudora Welty's Library
+title: A Sweet Devouring
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Eudora Welty's Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Explore the 5,000 volumes in Eudora Welty's personal library"
+description: "Explore the 5,000 volumes in Eudora Welty's personal library."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: novel;poetry;welty;books
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
