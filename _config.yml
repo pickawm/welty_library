@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Eudora Welty's Library
+title: A Sweet Devouring: Eudora Welty's Library
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Eudora Welty's Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Explore the 5,000 volumes in Eudora Welty's personal library"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: novel;poetry;welty;books
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Digital Welty Lab
 
 ##########
 # COLLECTION SETTINGS
@@ -52,8 +52,8 @@ metadata: libraryCB
 #
 organization-name: "Millsaps Digital Welty Lab"
 organization-link: https://weltylab.org/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-banner: https://ewelty.org/wp-content/uploads/2021/02/WeltyLabLogo.svg
+organization-logo-nav: https://www.millsaps.edu/wp-content/uploads/2022/04/millsaps-logo-stacked.png
 
 ##########
 # GOOGLE SERVICES [optional!]
